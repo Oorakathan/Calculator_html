@@ -2,7 +2,7 @@
 
 This is a simple calculator using HTML and CSS
 
-##How to use
+## How to use
 
 Just download the files and click the html file to see the outcome.
 
