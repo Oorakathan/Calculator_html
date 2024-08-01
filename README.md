@@ -10,4 +10,3 @@ Just download the files and click the html file to see the outcome.
 https://example.com/index.html
 ```
 
-`what this will give??`
